@@ -7,7 +7,7 @@
     "forceConsistentCasingInFileNames": true,
 
     "rootDir": "src",
-    "outDir": "target",
+    "outDir": "dist",
     "sourceMap": true,
 
     "target": "ESNext",
